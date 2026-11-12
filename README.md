@@ -14,17 +14,17 @@
 
 ---
 
-## 👩‍💻 About me
+## <img src="./assets/about.svg" width="22" height="22" align="top" /> About me
 
-- 🎓 Second-year engineering student (Master's level) in Computer Science at **CY Tech, France**
-- 🔐 Major in **Cybersecurity**, minor in **Data Science**
-- 🌏 Exchange semester at **Kasetsart University, Bangkok** (January – May 2027)
-- 🎯 Looking for a **research or industry internship** in cybersecurity, data science or AI, **June – August 2027**
-- 🗣️ French & Arabic (native) · English (B2) · Spanish (B1)
+- Second-year engineering student (Master's level) in Computer Science at **CY Tech, France**
+- Major in **Cybersecurity**, minor in **Data Science**
+- Exchange semester at **Kasetsart University, Bangkok** (January – May 2027)
+- Looking for a **research or industry internship** in cybersecurity, data science or AI, **June – August 2027**
+- French & Arabic (native) · English (B2) · Spanish (B1)
 
 ---
 
-## Tech stack
+## <img src="./assets/stack.svg" width="22" height="22" align="top" /> Tech stack
 
 **Languages**
 
@@ -39,6 +39,8 @@
 
 **Data**
 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -54,22 +56,23 @@
 
 ---
 
-## 🚀 Projects
+## <img src="./assets/projects.svg" width="22" height="22" align="top" /> Projects
 
 > Most of these projects were built **in teams** during my engineering programme.
 
 | Project | Description | Stack |
 |---|---|---|
-| ⚡ **C-Wire** | Power plant management tool: CSV data processing with binary trees, task automation with Shell scripts *(team project)* | C · Shell |
-| 🐟 **CY-Fish** | Turn-based multiplayer game for 2 to 6 players with a modular architecture *(team project)* | C · Git |
-| 📊 **Urban mobility data** | Public data collected through REST APIs, then analysed and visualised | Python · Pandas · Matplotlib |
-| 🚲 **Cergy Mobilité** | Interactive kiosk and web app promoting sustainable travel *(team project)* | HTML · CSS · JS · 3D |
-| 🛰️ **24-hour hackathon** · CY × Arizona State University | 🏅 Honourable mention — drought and migration in the Sahel from satellite data, presented in English to a jury | Google Earth Engine · JS |
-| 🌐 **Full-stack web projects** | Websites built end to end: front-end, back-end, databases, user authentication | HTML · CSS · JS · PHP · MySQL |
+| **[Spark-DATA](https://github.com/bouchrakd/Spark-DATA)** | Real-time data pipeline: PySpark Structured Streaming with windowed statistics and watermarks, user–product–seller interaction graph, live Streamlit dashboard *(team of 2)* | Python · PySpark · Streamlit · NetworkX |
+| **C-Wire** | Power plant management tool: CSV data processing with binary trees, task automation with Shell scripts *(team project)* | C · Shell |
+| **CY-Fish** | Turn-based multiplayer game for 2 to 6 players with a modular architecture *(team project)* | C · Git |
+| **Urban mobility data** | Public data collected through REST APIs, then analysed and visualised | Python · Pandas · Matplotlib |
+| **Cergy Mobilité** | Interactive kiosk and web app promoting sustainable travel *(team project)* | HTML · CSS · JS · 3D |
+| **24-hour hackathon** · CY × Arizona State University | Honourable mention — drought and migration in the Sahel from satellite data, presented in English to a jury | Google Earth Engine · JS |
+| **Full-stack web projects** | Websites built end to end: front-end, back-end, databases, user authentication | HTML · CSS · JS · PHP · MySQL |
 
 ---
 
-## 💼 Experience
+## <img src="./assets/experience.svg" width="22" height="22" align="top" /> Experience
 
 **Security & Video Surveillance Systems Intern** — *La Factory* · June – August 2025
 Designed a video surveillance system, diagnosed and debugged faults, and assessed its security and reliability.
