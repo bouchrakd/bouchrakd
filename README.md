@@ -31,11 +31,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Data**
 
@@ -58,17 +61,18 @@
 
 ## <img src="./assets/projects.svg" width="22" height="22" align="top" /> Projects
 
-> Most of these projects were built **in teams** during my engineering programme.
+> Most of these projects were built **in teams** during my engineering programme; the *My role* column shows my own contribution.
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Spark-DATA](https://github.com/bouchrakd/Spark-DATA)** | Real-time data pipeline: PySpark Structured Streaming with windowed statistics and watermarks, user–product–seller interaction graph, live Streamlit dashboard *(team of 2)* | Python · PySpark · Streamlit · NetworkX |
-| **C-Wire** | Power plant management tool: CSV data processing with binary trees, task automation with Shell scripts *(team project)* | C · Shell |
-| **CY-Fish** | Turn-based multiplayer game for 2 to 6 players with a modular architecture *(team project)* | C · Git |
-| **Urban mobility data** | Public data collected through REST APIs, then analysed and visualised | Python · Pandas · Matplotlib |
-| **Cergy Mobilité** | Interactive kiosk and web app promoting sustainable travel *(team project)* | HTML · CSS · JS · 3D |
-| **24-hour hackathon** · CY × Arizona State University | Honourable mention — drought and migration in the Sahel from satellite data, presented in English to a jury | Google Earth Engine · JS |
-| **Full-stack web projects** | Websites built end to end: front-end, back-end, databases, user authentication | HTML · CSS · JS · PHP · MySQL |
+| Project | Description | My role | Stack |
+|---|---|---|---|
+| **[Spark-DATA](https://github.com/bouchrakd/Spark-DATA)** | Real-time data pipeline: PySpark Structured Streaming with windowed statistics and watermarks, user–product–seller interaction graph, live Streamlit dashboard | Co-developer *(team of 2)* | Python · PySpark · Streamlit |
+| **[FloodRoute](https://github.com/snm-s/Projet-logiciel-Ing-1)** | Flood-crisis simulation on a city modelled as a graph: safe evacuation routes (Dijkstra), nearest shelter, alerts, role-based interfaces | Authentication and citizen interface views *(team of 5)* | Java · Maven |
+| **[SmartHome](https://github.com/snm-s/devweb)** | Full-stack connected-home web app: device management, energy tracking, automation scenarios | Visual identity and front-end *(team of 4)* | React · Node.js · Express · MySQL |
+| **[C-Wire](https://github.com/charlyppr/C-Wire)** | Analysis of French electricity distribution data (millions of CSV rows) with binary trees and GnuPlot charts | Shell launcher and argument checks *(team of 3)* | C · Shell · GnuPlot |
+| **[Click-journeY](https://github.com/celiast05/ClickJourney)** | Customisable luxury travel website: accounts, cart, booking changes, admin area | Co-developer *(team of 3)* | PHP · JavaScript · CSS |
+| **[PROJET-JO](https://github.com/ocnmrl/PROJET-JO-)** | Athletes' performance manager for a coach: view and edit performances for each event, with sorting | Co-developer *(team of 3)* | C |
+| **Urban mobility data** | Public data collected through REST APIs, then analysed and visualised | Data collection and analysis | Python · Pandas · Matplotlib |
+| **24-hour hackathon** · CY × Arizona State University | Honourable mention — drought and migration in the Sahel from satellite data, presented in English to a jury | Participant | Google Earth Engine · JS |
 
 ---
 
