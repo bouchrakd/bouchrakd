@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**
 
@@ -71,7 +71,7 @@
 
 ## 💼 Experience
 
-**🔐 Security & Video Surveillance Systems Intern** — *La Factory* · June – August 2025
+**Security & Video Surveillance Systems Intern** — *La Factory* · June – August 2025
 Designed a video surveillance system, diagnosed and debugged faults, and assessed its security and reliability.
 
 ---
